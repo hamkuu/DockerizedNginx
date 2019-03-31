@@ -7,9 +7,9 @@
 
 ### Update Domain Name
 On various Nginx configuration files under ./nginx_conf/,
-replace `hamkuu.com` with designated & certified domain name.
+replace `DOMAIN_NAME` with designated & certified domain name.
 
-### Spinning Up with Docker
+### Spinning Up Containers
 ```
 $ docker-compose build --no-cache
 $ docker-compose up -d
