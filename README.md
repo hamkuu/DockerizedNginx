@@ -3,6 +3,9 @@
 ### Get a .key File
 The private key is generated simultaneously with the CSR (certificate signing request), containing the domain name, public key and additional contact information.
 
+### Get a .crt File
+Available for downloading from SSL providers once SSL Certificate is purchased and activated.
+
 ### SSL Settings
 1. Add .crt certification file under ./ssl_certificate/
 2. Add .key certification pirate key file under ./ssl_certificate/
